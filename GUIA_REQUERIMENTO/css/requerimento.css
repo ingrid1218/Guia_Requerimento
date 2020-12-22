@@ -1,0 +1,163 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: arial;
+    font-weight: bold;
+}
+
+#area1{
+    width: 960px;
+    margin: 0 auto;			
+    padding: 10px;
+    font-size: 14px;
+}
+
+#parte1{
+    margin: 30px 30px 0px 30px;
+}
+
+#area2{
+    margin: 0px 30px 0px 30px;
+}
+
+#parte2{
+    margin-top: 5px;
+    margin-bottom: 7px;
+    width: 95%;
+}
+
+#img1{
+    width: 120px;
+}
+
+#titulo{
+    font-size: 20px;
+    padding-left: 55%;
+}
+
+#img2{
+    width: 100%;
+}
+
+#prot1{
+    padding-left: 70%;
+}
+
+#prot2{
+    border-radius: 7px;
+    margin-bottom: 5px;
+}
+
+#nome2, #e_mail{
+    margin-right: 5%;
+    width: 275pt;
+}
+
+#mat2{
+    width: 120pt;
+}
+
+#area3, #area4{
+    margin-top: 15px;
+    width: 100%;
+}
+
+#nasc, #nat{
+    width: 95pt;
+}
+
+#cur{
+    margin-right: 8.5%;   
+}
+
+#per{
+    width: 50pt;
+    margin-right: 12.5%;
+}
+
+#tel1, #tel2{
+    width: 90pt;
+    margin-right: 8.6%;
+}
+
+#parte3, #tel1, #tel2, #e_mail{
+    margin-top: 10px;
+}
+
+#parte4{
+    font-size: 13px;
+}
+
+.opc{
+    border-collapse: collapse;
+}
+
+.opc tr:nth-child(even) {
+    background: #FFF;
+}
+ 
+.opc tr:nth-child(odd) {
+    background: #DCDCDC;
+}  
+
+#just, #esp{
+    width: 99%;
+}
+
+h5{
+    text-align: center;
+}
+
+#ass_r2{
+    margin-right: 10px;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+#ass_f2{
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+#l1{
+    margin-left: 225pt;
+}
+
+#data1{
+    text-align: center;
+    margin-left: 225pt;
+}
+
+#data2{
+    margin-top: 15px;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+.visto{
+    width: 410px;
+    margin-top: 20px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    font-size: 9pt;
+    display: inline-block;
+}
+
+.coord{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.coord input{
+    border: none;
+    border-bottom: 2px solid black;
+    width: 200pt;
+}
+
+.botoes{
+    color: #DCDCDC;
+    width: 100pt;
+    height: 30pt;
+    margin: 25pt 25pt 10pt 600pt;
+}
